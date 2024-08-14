@@ -61,7 +61,7 @@ esp32:
       MDNS_STRICT_MODE: y
 
 dashboard_import:
-  package_import_url: github://Hankanman/Devices/ESPHome/LoopOn/AirSense/loopon_airsense_latest.yaml@main
+  package_import_url: github://Hankanman/Devices/esphome/LoopOn/AirSense/loopon_airsense_latest.yaml@main
   import_full_config: false
 
 external_components:
